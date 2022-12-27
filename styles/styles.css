@@ -1,0 +1,32 @@
+header{
+    background-color: #22DEF6;
+    height:100px; 
+    margin-top:auto;
+    display:flex;
+}
+
+.title{
+    color: #00BCD4;
+    text-shadow: 2px 2px #fff, 5px 5px rgba(0, 188, 212, 0.4);
+}
+
+.subtitle{
+    color:#00B379;
+   text-shadow:1px 1px #fff,2px 2px #00B379;
+}
+
+.name{
+    background-color: #aaaaaa;
+}
+
+.box_css{
+    border:solid 3px #000000;
+    padding:10px;
+    margin:0;
+    padding:0;
+    display:inline-block;
+}
+
+pre{
+    background-color:rgba(0, 188, 212, 0.4)
+}
